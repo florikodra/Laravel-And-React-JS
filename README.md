@@ -1,11 +1,6 @@
+REACT JS WEBSITE DUBLICATE
 
-Frontend:
-
-Kam perdorur HTML, CSS per stilizim si dhe kam perdorur reactjs per vendosjen e komponenteve.
-
-Backend:
-
-Kam perdorur Laravel duke qene se i pershtatet te gjitha kerkesave te nevojshme si dhe per testim kam krijuar thjeshte routes per ta testuar nga browseri por nje menyre shume e mire jan unit test per secilin funksion.
+LARAVEL XML INSERT/UPDATE/DELETE
 
 GET|HEAD | product/delete     |      | App\Http\Controllers\ProductsController@delete                              | web        |
 |        | GET|HEAD | product/detail     |      | App\Http\Controllers\ProductsController@get_product_definition_detail_array | web        |
